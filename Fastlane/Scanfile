@@ -1,7 +1,7 @@
 # For more information about this configuration visit
 # https://github.com/fastlane/scan#scanfile
 
-workspace "SampleApp.xcodeproj/project.xcworkspace"
+workspace "SampleApp/SampleApp.xcodeproj/project.xcworkspace"
 scheme "SampleApp"
 sdk "iphonesimulator"
 device "iPhone 15"
