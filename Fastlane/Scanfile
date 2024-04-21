@@ -2,9 +2,9 @@
 # https://github.com/fastlane/scan#scanfile
 
 workspace "SampleApp/SampleApp.xcodeproj/project.xcworkspace"
-scheme "SampleApp"
+scheme "SampleAppTests"
 sdk "iphonesimulator"
-device "iPhone 11"
+device "iPhone 15"
 code_coverage true
 xcargs '-parallelizeTargets'
 prelaunch_simulator true
