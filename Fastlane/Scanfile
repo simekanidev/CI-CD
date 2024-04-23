@@ -9,3 +9,4 @@ code_coverage true
 xcargs '-parallelizeTargets'
 prelaunch_simulator true
 derived_data_path "Build/"
+slack_url "https://hooks.slack.com/services/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"
